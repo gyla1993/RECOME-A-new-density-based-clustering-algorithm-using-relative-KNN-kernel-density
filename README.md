@@ -7,8 +7,7 @@ This is a cpp implementation of the RECOME algorithm.
 
 head.h       ---- Common declearation    
 graphDefinition.cpp  ---- Graph structure definition     
-main.cpp ---- RECOME algorithm 
-
+main.cpp ---- RECOME algorithm     
 FJDD.cpp      ---- FJDD algorithm for the parameter alpha extraction
 
 Requirements:   
