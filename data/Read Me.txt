@@ -1,0 +1,16 @@
+For each data file, the two numbers in the first line are #dimensions (not include label column) and #clusters, respectively. 
+Then, each line contains a sample with the last column being its label.
+The correspondence between file names and dataset names is as follows:
+
+in31 S2
+in33 S3
+in41 MNIST3467
+in42 MNIST367
+in47 MNIST0:9
+in68 MNIST0:8
+in70 MNIST0:8(900random)
+in71 MNIST3467(900random)
+in72 S1
+in79 orl_faces_10
+in81 orl_faces_40
+in101 S4
