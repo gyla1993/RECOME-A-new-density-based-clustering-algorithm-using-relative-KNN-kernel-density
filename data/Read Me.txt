@@ -1,6 +1,6 @@
 For each data file, the two numbers in the first line are #dimensions (not include label column) and #clusters, respectively. 
 Then, each line contains a sample with the last column being its label.
-The correspondence between file names and dataset names is as follows:
+The correspondence between file names and dataset names (appeared in our paper) is as follows:
 
 in31 S2
 in33 S3
