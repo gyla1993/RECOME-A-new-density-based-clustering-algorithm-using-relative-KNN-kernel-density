@@ -15,8 +15,8 @@ C++03
 
 #Reference
 ```
-@article{GENG201813,
-title = "RECOME: A new density-based clustering algorithm using relative KNN kernel density",
+@article{geng2018recome,
+title = "{RECOME}: {A} new density-based clustering algorithm using relative {KNN} kernel density",
 journal = "Information Sciences",
 volume = "436-437",
 pages = "13 - 30",
