@@ -274,7 +274,7 @@ void calNMI(int n, int *bel, int *num, double &NMI) {
 char path[256];
 
 /***************************
-Warning: you may need to adjust pre-defined contansts MAXN, MAXK and MAXD 
+Warning: you may need to adjust pre-defined constants MAXN, MAXK and MAXD 
 (defined in head.h) for dataset with large size or high dimension.  
 ***************************/
 int main() {
