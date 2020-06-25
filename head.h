@@ -31,7 +31,6 @@ inline T ABS(T a);
 const int MAXN(21000);  //max #samples
 const int MAXK(150);	//max K for KNN
 const int MAXD(18);		//max #dimensions
-const int INF((INT_MAX - 1) / 2);
 const double LIM(1e30);
 const double EPS(1e-8);
 const double PI(acos(-1.0));
