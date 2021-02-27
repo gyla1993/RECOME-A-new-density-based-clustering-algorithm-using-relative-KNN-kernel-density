@@ -1,7 +1,6 @@
 # RECOME-A-new-density-based-clustering-algorithm-using-relative-KNN-kernel-density
 RECOME: A new density-based clustering algorithm using relative KNN kernel density, published in Information Science 2018
-https://www.sciencedirect.com/science/article/pii/S0020025518300215
-
+https://www.sciencedirect.com/science/article/pii/S0020025518300215  
 An arXiv version:
 https://arxiv.org/abs/1611.00484
 
