@@ -11,6 +11,8 @@ graphDefinition.cpp  ---- Graph structure definition
 main.cpp ---- RECOME algorithm     
 FJDD.cpp      ---- FJDD algorithm for the parameter alpha extraction
 
+RECOME.py ---- The pyrhon version of RECOME
+
 Requirements:   
 C++03
 
